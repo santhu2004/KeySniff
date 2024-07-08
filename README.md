@@ -27,5 +27,5 @@ To use the listener:
 **Note:** Make sure that both the listener and the keylogger are configured to communicate with each other over a secure and trusted network connection.
 
 ## Disclaimer
-This keylogger and listener are provided for educational only. Misuse of these scripts may violate privacy laws and regulations. The author of these scripts is not responsible for any illegal or unethical use of the software.
+This keylogger and listener are provided for educational purposes only. Misuse of these scripts may violate privacy laws and regulations. The author of these scripts is not responsible for any illegal or unethical use of the software.
 
